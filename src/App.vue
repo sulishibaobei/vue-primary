@@ -2,7 +2,9 @@
   <div id="app">
     <img src="./assets/logo.png">
     <router-view/>
+    <div id="app-2"></div>
   </div>
+    
 </template>
 
 <script>
